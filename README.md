@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋
+- I'm Anani Chineye Treasure 👋
+- 😄 Pronouns: She/Her
 
-<!--
-**anani-ct/anani-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Researcher | Mathematical Modelling & Data Science Portfolio  
+📊 Aspiring Data Scientist | Epidemiology Modelling | Complex Systems Modelling  
+🧠 Passionate about Data, Logic, and Complex Systems
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Epidemiology Modelling & Complex Systems Modelling
+- Data Science & Machine Learning
+- Statistical Computing (Python, Excel)
+- Mathematical Analysis & Modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- Python (Loops, Functions, Data Structures)
+- Excel (IF statements, Data Analysis)
+- LaTeX & Research Writing
+- Data Visualization
+
+## 📈 Current Focus
+- Strengthening Data Science foundations  
+- Applying mathematical modelling to real-world health and social problems
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/chineye-treasure-anani-a50399310  
+- Email: ananichineye@gmail.com
